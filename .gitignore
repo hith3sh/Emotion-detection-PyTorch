@@ -1,5 +1,5 @@
 trained_model/
+dataset/
 env/
 .ipynb_checkpoints/
 __pycache__/
-dataset/
